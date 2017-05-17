@@ -6,4 +6,4 @@
 ###demo运行方式
 需要使用android studio工具连接手机然后运行demo （参考博客http://blog.csdn.net/qq_22088285/article/details/72304724
 ）
-
+提示：可以用UiAutomatorviewer抓去App页面上的控件属性
